@@ -43,11 +43,11 @@ exit
 
 
 :logo
-title [ADSI] The Fastest Search
+title [MikronT] The Fastest Search
 color 0b
 cls
 echo.
-echo.    [ADSI] ==^> The Fastest Search
+echo.    [MikronT] ==^> The Fastest Search
 echo.
 echo.
 exit /b
